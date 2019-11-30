@@ -113,9 +113,13 @@ Chua hoan thien :
   Nguyen nhan la do p.addEventListener chi duoc thuc hien mot lan. 
   Chi can p.addEvemtListener co the dung nhieu lan la coi nhu tam xong app nay.
 
+- Them vao kha nang luu tru lau dai ( localStorage)
+
 - TIM Hieu lai ve lap trinh ham trong JavaScript. Cach viet chuong trinh theo
 bo cuc hoan chinh. Tang kha nang nang cap va bao tri.
 - Tim  hieu ve lap trinh Ham trong javascript
+
+
 
 */
 
